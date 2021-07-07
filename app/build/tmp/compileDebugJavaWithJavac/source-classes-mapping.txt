@@ -1,0 +1,5 @@
+com/mobotechnology/bipinpandey/retrofit_handdirty/BuildConfig.java
+ com.mobotechnology.bipinpandey.retrofit_handdirty.BuildConfig
+com/mobotechnology/bipinpandey/retrofit_handdirty/activity/MainActivity.java
+ com.mobotechnology.bipinpandey.retrofit_handdirty.activity.MainActivity
+ com.mobotechnology.bipinpandey.retrofit_handdirty.activity.MainActivity$1

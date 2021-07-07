@@ -1,0 +1,4 @@
+#Wed Jul 07 15:43:03 IST 2021
+base.0=/Users/lokeshdeshmukh/Downloads/Retrofit2-Example/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
